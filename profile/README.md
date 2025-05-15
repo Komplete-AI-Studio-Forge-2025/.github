@@ -65,14 +65,11 @@ This suite delivers cutting-edge tools to enhance Komplete’s ecosystem:
 ### Screenshots
 
 **AI Orchestration Interface**  
-![Orchestration Interface](https://www.native-instruments.com/typo3temp/pics/img-ce-komplete-kontrol-product-page-01-intro-1-589a3d1840ea0124ca0d38625b2a6ce3-m@2x.jpg)  
+![Orchestration Interface](https://www.native-instruments.com/typo3temp/pics/img-ce-komplete-15-new-customer-landing-page-19-hardware-93ac8a45c63efc31dec61faf79977121-m@2x.jpg)  
 *Interface for AI-driven orchestration and melody creation in Kontakt 8.*  
 
 
 
-**AI Synth Design Panel**  
-![Synth Panel](https://www.native-instruments.com/typo3temp/pics/img-ce-kontrol_browse_kontakt_fb-68a17563836449efab3d13f0542b90a8-m@2x.jpg)  
-*Panel for configuring AI-powered synth design in Massive X.*  
 
 ---
 
