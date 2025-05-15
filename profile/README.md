@@ -65,7 +65,7 @@ This suite delivers cutting-edge tools to enhance Komplete’s ecosystem:
 ### Screenshots
 
 **AI Orchestration Interface**  
-![Orchestration Interface](https://www.native-instruments.com/typo3temp/pics/img-ce-komplete-15-new-customer-landing-page-19-hardware-93ac8a45c63efc31dec61faf79977121-m@2x.jpg)  
+![Orchestration Interface](https://www.sweetwater.com/sweetcare/media/2023/11/Native-Instruments-Kontrol-S-Series-Mk3-Quickstart-Guide-1.jpg)  
 *Interface for AI-driven orchestration and melody creation in Kontakt 8.*  
 
 
